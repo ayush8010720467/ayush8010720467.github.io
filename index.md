@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to AYUSH's PAGE
 
 You can use the [editor on GitHub](https://github.com/ayush8010720467/ayush8010720467.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
